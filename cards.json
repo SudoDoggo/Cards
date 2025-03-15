@@ -1,0 +1,46 @@
+{
+   "cards":[
+      {
+         "Name":"Annoying Noise",
+         "EffectName":"Burn",
+         "Effect": 2,
+         "Amount": 8
+      },
+      {
+         "Name":"Healing Licks",
+         "EffectName":"Heal",
+         "Effect": 5,
+         "Amount": 7
+      },
+      {
+         "Name":"Scratch",
+         "EffectName":"Damage",
+         "Effect": 6,
+         "Amount": 10
+      },
+      {
+         "Name":"Throw Toy",
+         "EffectName":"Stun",
+         "Effect": 1,
+         "Amount": 4
+      },
+      {
+         "Name":"Evil Eyes",
+         "EffectName":"Damage",
+         "Effect": 10,
+         "Amount": 4
+      },
+      {
+         "Name":"Food Can",
+         "EffectName":"Heal Overtime",
+         "Effect": 4,
+         "Amount": 5
+      },
+      {
+         "Name":"Speed Kick",
+         "EffectName":"Damage",
+         "Effect": 4,
+         "Amount": 7
+      }
+   ]
+}
